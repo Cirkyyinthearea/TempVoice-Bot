@@ -1,15 +1,15 @@
 const config = {
     "token": "TOKEN",
-    "guild": "SERVER ID",
-    "HUBtxtChannelID": "leaveBlank",
-    "HUBvcChannelID": "HUB CHANNEL ID | VC hub channel u need create by u owne, and put the hub id in here.",
-    "DefaultRoleID": "if use @everyone, just put the server id in here. ",
-    "categoryID": " a category to Collect your voice channels, u need create by you self, adn put category id here.",
-    "status": "",
+    "guild": "772442903716560926",
+    "HUBtxtChannelID": "1308455597301301259",
+    "HUBvcChannelID": "1308456208742617160",
+    "DefaultRoleID": "772442903716560926",
+    "categoryID": "1308454930486530089",
+    "status": "cirkyy is here",
     "enable_slash": true,
-    "prefix": "]",
+    "prefix": "!",
     "owners": [
-        ""
+        "722584544175194154"
     ]
 }
 //use env
